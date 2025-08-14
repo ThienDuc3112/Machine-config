@@ -1,0 +1,8 @@
+git
+fzf
+zsh
+fastfetch
+poetry
+nvim
+tmux
+docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
